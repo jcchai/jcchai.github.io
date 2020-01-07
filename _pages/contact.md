@@ -22,7 +22,7 @@ Bronx, NY 10461
 
 Phone: +1-718-430-3603
 
-E-mail: jin.chai@einstein.yu.edu
+E-mail: jin.chai@einsteinmed.org
 
 
 <!--

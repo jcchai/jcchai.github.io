@@ -2,7 +2,7 @@
 title: "Chai - Research"
 layout: research
 excerpt: "Chai -- Research."
-sitemap: false
+sitemap: true
 permalink: /research/
 ---
 
@@ -16,9 +16,10 @@ https://joonanlab.github.io/
 
 ---
 
+-->
+
 ### Presentations 
 
--->
 
 ---
 

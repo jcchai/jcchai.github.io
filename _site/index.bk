@@ -37,6 +37,7 @@
 		<li><a href="http://localhost:4000/">Home</a></li>
 		<li><a href="http://localhost:4000/me">Me</a></li>
 		<li><a href="http://localhost:4000/research">Research</a></li>
+		<li><a href="http://localhost:4000/publications">Publications</a></li>
 <!--
 		<li><a href="http://localhost:4000/project">Project</a></li>
 -->	
@@ -187,6 +188,9 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 <div class="well">
 	<h4>News</h4>
 
+	
+		Jan 29th 2020
+		<p><em>CHARGE travel award recipients for the Houston 2020 conference</em></p>
 	
 		Oct 1st 2019
 		<p><em>Hi, I'm Jin.</em></p>

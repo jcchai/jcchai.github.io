@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+### Publications
 
-## Highlights
+#### Highlights
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=mQFDa-0AAAAJ&hl=en)
 
@@ -52,9 +52,9 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+#### Full List
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publications %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>

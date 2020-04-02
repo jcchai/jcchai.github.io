@@ -35,6 +35,7 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 
 
 <!--
+bundle exec jekyll serve
 
 He trained as a bioinformatician with a particular focus on human genomics and neuroscience. His PhD project involved in National Autism Research Project - [The Cooperative Research Centre for Living with Autism](http://www.autismcrc.com.au/) - for the genomic sequencing project of Australian Autism families ([An et al. (2014)](https://www.nature.com/articles/tp201438)).
 

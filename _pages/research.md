@@ -11,8 +11,14 @@ permalink: /research/
 Metabolites
 
 Cohort 
+- HIV-CVD
+- Diabetes
+
+LncRNA
+
 
 <!--
+
 #### We study **genetic risk factors in complex human disorders** using **high-dimensional genomic data**.
 
 https://joonanlab.github.io/

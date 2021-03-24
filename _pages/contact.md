@@ -6,7 +6,17 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Contact to:
+# current Contact to:
+<p></p>
+SNU
+<br>
+
+jcchai@snu.ac.kr
+
+<p></p>
+
+
+# Previous Contact to:
 
 <p> </p>
 Department of Epidemiology & Population Health 

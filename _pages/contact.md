@@ -6,12 +6,12 @@ sitemap: false
 permalink: /contact/
 ---
 
-# current Contact to:
+# Current Contact to:
 <p></p>
 SNU
 <br>
 
-jcchai@snu.ac.kr
+E-mail: jcchai@snu.ac.kr
 
 <p></p>
 

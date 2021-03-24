@@ -1,13 +1,15 @@
 ---
 title: "Jin Chai - Home"
 layout: homelay
-excerpt: "Jin Chai at Einstein"
+excerpt: "Jin Chai at SNU"
 sitemap: false
 permalink: /
 ---
 
 
 # Welcome to Jin Chai page.
+
+I am researcher at SNU now.
 
 I am an Postdoctoral Fellow of Epidemiology and Population Health at Albert Einstein College of Medicine in Bronx, NY.
 

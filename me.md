@@ -10,13 +10,17 @@ scholar:
 photo: jin.jpg
 ---
 
+
+
 Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Department of Epidemiology and Population Health.
 
-
+<!--
 ### Hi
-
+-->
 
 ### Education & Training
+
+- Researcher, SNU, South Korea
 - Postdoctoral Fellow, Albert Einstein College of Medicine, NY.
 - PhD, Bioinformatics, Hanyang University, South Korea
 - MSc, Bioinformatics, Hanyang University, South Korea
@@ -25,7 +29,6 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 
 
 ### Professional Service
-
 
 ### Professional Affiliations
 

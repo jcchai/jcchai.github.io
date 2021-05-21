@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jin Choul Chai
-position: Research Fellow
+position: Researcher
 handle: jin
 email:
 twitter:
@@ -10,9 +10,11 @@ scholar:
 photo: jin.jpg
 ---
 
+Dr. Chai is a researcher at the SNU.
 
-
+<!--
 Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Department of Epidemiology and Population Health.
+-->
 
 <!--
 ### Hi
@@ -26,10 +28,9 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 - MSc, Bioinformatics, Hanyang University, South Korea
 - BSc, Biochemistry, CBNU, South Korea
 
-
-
+<!--
 ### Professional Service
-
+-->
 ### Professional Affiliations
 
 - AHA

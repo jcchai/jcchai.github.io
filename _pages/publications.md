@@ -11,7 +11,7 @@ permalink: /publications/
 
 #### Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=mQFDa-0AAAAJ&hl=en)
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=mQFDa-0AAAAJ&hl=en) )
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,7 +26,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="30%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

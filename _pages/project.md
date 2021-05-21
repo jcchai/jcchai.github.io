@@ -9,7 +9,7 @@ permalink: /project/
 <!--
 #### We study **genetic risk factors in complex human disorders** using **high-dimensional genomic data**.
 
----
+-->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -33,12 +33,13 @@ permalink: /project/
 
 ---
 
--->
 
 <div>
 ## Full List
 
+
 For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=mQFDa-0AAAAJ&hl=en">Google Scholar</a>.
+
 <br><br><br>
 
 </div>

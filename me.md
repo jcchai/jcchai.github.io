@@ -10,7 +10,7 @@ scholar:
 photo: jin.jpg
 ---
 
-Dr. Chai is a researcher at the SNU.
+<!--Dr. Chai is a researcher at the SNU-->
 
 <!--
 Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Department of Epidemiology and Population Health.
@@ -21,7 +21,7 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 -->
 
 ### Education & Training
-
+- :)
 - Researcher, SNU, South Korea
 - Postdoctoral Fellow, Albert Einstein College of Medicine, NY.
 - PhD, Bioinformatics, Hanyang University, South Korea
@@ -36,7 +36,7 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 - AHA
 - ADA
 - NYKB
-
+- ISMB
 
 <!--
 bundle exec jekyll serve

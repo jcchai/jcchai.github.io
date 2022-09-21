@@ -8,14 +8,13 @@ permalink: /contact/
 
 # Current Contact to:
 <p></p>
-SNU
+free :) 
 <br>
 
-E-mail: jcchai@snu.ac.kr
-
+E-mail: jincchai.kor@gmail.com
 <p></p>
 
-
+<!--
 # Previous Contact to:
 
 <p> </p>
@@ -33,6 +32,7 @@ Bronx, NY 10461
 Phone: +1-718-430-3603
 
 E-mail: jin.chai@einsteinmed.org
+-->
 
 
 <!--

@@ -8,14 +8,13 @@ permalink: /research/
 
 ### Research interest
 
-Metabolites
+Start with AI 
+
+Metabolomics
 
 Cohort 
 - HIV-CVD
 - Diabetes
-
-LncRNA
-
 
 <!--
 

@@ -1,13 +1,15 @@
 ---
 title: "Jin Chai - Home"
 layout: homelay
-excerpt: "Jin Chai at SNU"
+excerpt: "Jin Chai at ..."
 sitemap: false
 permalink: /
 ---
 
 
 # Welcome to Jin Chai page.
+
+Now I'm free :)
 
 I am researcher at SNU now.
 

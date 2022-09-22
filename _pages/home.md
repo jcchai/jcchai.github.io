@@ -9,7 +9,7 @@ permalink: /
 
 # Welcome to Jin Chai page.
 
-Now I'm free :)
+Now I'm free!! :)
 
 I am researcher at SNU now.
 

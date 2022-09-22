@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Current Contact to:
 <p></p>
-free :) 
+Feel free to contact me :) 
 <br>
 
 E-mail: jincchai.kor@gmail.com

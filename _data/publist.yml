@@ -1,15 +1,15 @@
 - title: "Serum Metabolomics of Incident Diabetes and Glycemic Changes in a Population With High Diabetes Burden: The Hispanic Community Health Study/Study of Latinos"
-  image: ZhangChai2021.png
+  image: 
   description: Diabetes 2022;71(6):1338–1349 https://doi.org/10.2337/db21-1056
   authors:
-  links:
-    url: https://diabetesjournals.org/diabetes/article/71/6/1338/144831/Serum-Metabolomics-of-Incident-Diabetes-and
+  link:
+    url: https://doi.org/10.2337/db21-1056
     display: Chai et al. Diabetes (2022)
   highlight: 1
   news2:
 
 - title: "Plasma Lipidomic Profiles and Risk of Diabetes: 2 Prospective Cohorts of HIV-Infected and HIV-Uninfected Individuals"
-  image: ZhangChai2021.png
+  image: 
   description: The Journal of Clinical Endocrinology & Metabolism, Volume 106, Issue 4, April 2021, Pages 999–1010, https://doi.org/10.1210/clinem/dgab011 
   authors:
   link:
@@ -19,7 +19,7 @@
   news2:
 
 - title: "Serum sphingolipids and incident diabetes in a US population with high diabetes burden: the Hispanic Community Health Study/Study of Latinos (HCHS/SOL)"
-  image: ChenChai2020.png
+  image: 
   description:  The American Journal of Clinical Nutrition, Volume 112, Issue 1, July 2020, Pages 57–65, https://doi.org/10.1093/ajcn/nqaa114
   authors:
   link:
@@ -31,7 +31,7 @@
 
 
 - title: "Lipidomic profiles and progression of carotid artery atherosclerosis in HIV infection: Two prospective HIV cohorts"
-  image: Chai2019.png
+  image: 
   description:  JAMA Cardiol. Published online October 23, 2019. doi:10.1001/jamacardio.2019.4025
   authors:
   link:

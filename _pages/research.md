@@ -8,13 +8,13 @@ permalink: /research/
 
 ### Research interest
 
-Start with AI 
+Start with AI !! 
 
 Metabolomics
 
 Cohort 
-- HIV-CVD
-- Diabetes
+- HIV - CVD
+- Latinos - Diabetes
 
 <!--
 

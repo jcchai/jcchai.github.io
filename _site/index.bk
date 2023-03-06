@@ -7,9 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Jin Chai - Home</title>
 	<meta name="description" content="Jin Chai at Einstein">
-	<link rel="stylesheet" href="http://localhost:4000/css/main.css">
-	<link rel="canonical" href="http://localhost:4000/">
-	<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="canonical" href="/">
+	<link rel="shortcut icon" type ="image/x-icon" href="/images/favicon.ico">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/academicons/css/academicons.css">
 
@@ -29,29 +29,29 @@
 		<span class="icon-bar"></span>
 	  </button>
 
-    <a class="navbar-brand" href="http://localhost:4000/">Jin Chai @ Einstein </a>
+    <a class="navbar-brand" href="/">Jin Chai @ Einstein </a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/me">Me</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
+		<li><a href="/">Home</a></li>
+		<li><a href="/me">Me</a></li>
+		<li><a href="/research">Research</a></li>
+		<li><a href="/publications">Publications</a></li>
 <!--
-		<li><a href="http://localhost:4000/project">Project</a></li>
+		<li><a href="/project">Project</a></li>
 -->	
 <!--	
-                <li><a href="http://localhost:4000/">Home</a></li>
-                <li><a href="http://localhost:4000/team">Team</a></li>
-                <li><a href="http://localhost:4000/vacancies">Vacancies</a></li>
-                <li><a href="http://localhost:4000/publications">Publications</a></li>
-                <li><a href="http://localhost:4000/research">Research</a></li>
-                <li><a href="http://localhost:4000/pictures">(Pics)</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/team">Team</a></li>
+                <li><a href="/vacancies">Vacancies</a></li>
+                <li><a href="/publications">Publications</a></li>
+                <li><a href="/research">Research</a></li>
+                <li><a href="/pictures">(Pics)</a></li>
 
-		<li><a href="http://localhost:4000/code">Code</a></li>
+		<li><a href="/code">Code</a></li>
  -->
-		<li><a href="http://localhost:4000/contact">Contact</a></li>
+		<li><a href="/contact">Contact</a></li>
 	  </ul>
 	</div>
 
@@ -106,25 +106,25 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="http://localhost:4000/images/slider7001400/STS.jpg" alt="Slide 1" />
+            <img src="/images/slider7001400/STS.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/SaphireSTM2.jpg" alt="Slide 2" />
+            <img src="/images/slider7001400/SaphireSTM2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="/images/slider7001400/cake_web.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/logos.jpg" alt="Slide 4" />
+            <img src="/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+            <img src="/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/lab.jpg" alt="Slide 7" />
+            <img src="/images/slider7001400/lab.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -144,16 +144,16 @@ To this end, we develop novel spectroscopic-imaging scanning tunneling microscop
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](http://localhost:4000/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](/vacancies) **!**
 
 
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="http://localhost:4000/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="http://localhost:4000/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="http://localhost:4000/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="http://localhost:4000/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
+  <img src="/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 
 -->
@@ -171,7 +171,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
         
         <div class="row">
 
-      	<img src="http://localhost:4000/images/pubpic/Chai2019.png" class="img-responsive" width="20%" style="float: left" />
+      	<img src="/images/pubpic/Chai2019.png" class="img-responsive" width="20%" style="float: left" />
           <p><a class="pub1" href="https://jamanetwork.com/journals/jamacardiology/article-abstract/2753610">Lipidomic profiles and progression of carotid artery atherosclerosis in HIV infection: Two prospective HIV cohorts</a></p>
           <p><a class="pub2">  </a></p>
           <a class="pub2"> Chai et al. JAMA Cardiology (2019) </a>
@@ -196,7 +196,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 		<p><em>Hi, I'm Jin.</em></p>
 	
 
-	<h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
+	<h4><a href="/allnews.html">... see all News</a></h4>
     
 </div>
 
@@ -222,8 +222,8 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 			<ul class="nav navbar-nav navbar-right">
 			<!--
 	<li><a href="https://www.korea.edu/">Korea University</a></li>
-				<li><a href="http://localhost:4000/about">About</a></li>
-				<li><a href="http://localhost:4000/recruitment">Recruitment</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/recruitment">Recruitment</a></li>
 -->
 			</ul>
 
@@ -234,7 +234,7 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
 
 
   </body>

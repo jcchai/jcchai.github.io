@@ -9,7 +9,7 @@ permalink: /
 
 # Welcome to Jin Chai page.
 
-Now I'm free!! :)
+I am principal researcher at sml labtree.
 
 I am researcher at SNU now.
 

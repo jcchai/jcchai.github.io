@@ -21,7 +21,7 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 -->
 
 ### Education & Training
-- :)
+- Principal researcher :D
 - Researcher, SNU, South Korea
 - Postdoctoral Fellow, Albert Einstein College of Medicine, NY.
 - PhD, Bioinformatics, Hanyang University, South Korea

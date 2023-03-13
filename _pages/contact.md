@@ -11,7 +11,7 @@ permalink: /contact/
 Feel free to contact me :) 
 <br>
 
-E-mail: jincchai.kor@gmail.com
+E-mail: jcchai2023@smlabtree.com or jincchai.kor@gmail.com
 <p></p>
 
 <!--

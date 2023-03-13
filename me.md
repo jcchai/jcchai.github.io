@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jin Choul Chai
-position: Researcher
+position: Principal Researcher
 handle: jin
 email:
 twitter:
@@ -37,6 +37,7 @@ Dr. Chai is an Postdoc at the Albert Einstein College of Medicine in the Departm
 - ADA
 - NYKB
 - ISMB
+- :)
 
 <!--
 bundle exec jekyll serve

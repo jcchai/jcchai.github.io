@@ -1,7 +1,7 @@
 ---
 title: "Jin Chai - Home"
 layout: homelay
-excerpt: "Jin Chai at ..."
+excerpt: "Jin Chai at Labtree"
 sitemap: false
 permalink: /
 ---

@@ -11,8 +11,18 @@ permalink: /contact/
 Feel free to contact me :) 
 <br>
 
-E-mail: jcchai2023@smlabtree.com or jincchai.kor@gmail.com
+<!-- E-mail: jcchai2023@smlabtree.com or jincchai.kor@gmail.com -->
 <p></p>
+
+T. 02-3497-5237  
+
+F. 02-3497-5189
+
+M. 010-5492-0907
+
+E. jcchai2023@smlabtree.com
+
+06740 서울특별시 강남대로 30길 66 산수빌딩 6층 생명과학연구소 (양재동)
 
 <!--
 # Previous Contact to:
